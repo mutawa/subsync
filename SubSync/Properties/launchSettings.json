@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SubSync": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\torrents\\subsync\\movie.srt\" sync 5 536 01:17:44,600"
+    }
+  }
+}
